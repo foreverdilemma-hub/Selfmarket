@@ -1,0 +1,5 @@
+{
+  "name": "selfmarket",
+  "main": "market_command_center_worker.js",
+  "compatibility_date": "2026-10-06"
+}
